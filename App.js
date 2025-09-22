@@ -1,5 +1,4 @@
 
-// import SplashScreen from './src/screens/SplashScreen.js'
 import { NavigationContainer } from '@react-navigation/native';
 import RootNavigator from './src/navigation/RootNavigator.js'
 import { SafeAreaProvider } from 'react-native-safe-area-context';
